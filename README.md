@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Davin</h1>
-<h3 align="center">A passionate Computer Science Student | The one and only, savour every moments of life ✨</h3>
+<h1 align="center">Hello World! 👋, I'm Davin</h1>
+<h3 align="center">A passionate Computer Science Student | The one and only ✨</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&width=435&lines=Computer+Science+Student;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
